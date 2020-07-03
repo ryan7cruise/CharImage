@@ -16,6 +16,7 @@
 		BA72218C24AEC63E00EEA723 /* YCScaleGrayscaleFilter.m in Sources */ = {isa = PBXBuildFile; fileRef = BA72218B24AEC63E00EEA723 /* YCScaleGrayscaleFilter.m */; };
 		BA72218F24AECBEC00EEA723 /* YCCharImageFilter.m in Sources */ = {isa = PBXBuildFile; fileRef = BA72218E24AECBEC00EEA723 /* YCCharImageFilter.m */; };
 		BA72219324AEF3C800EEA723 /* all.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BA72219224AEF3C800EEA723 /* all.jpg */; };
+		BA72219624AF59D500EEA723 /* YCCharImageGroupFilter.m in Sources */ = {isa = PBXBuildFile; fileRef = BA72219524AF59D500EEA723 /* YCCharImageGroupFilter.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -36,6 +37,8 @@
 		BA72218D24AECBEC00EEA723 /* YCCharImageFilter.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = YCCharImageFilter.h; sourceTree = "<group>"; };
 		BA72218E24AECBEC00EEA723 /* YCCharImageFilter.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = YCCharImageFilter.m; sourceTree = "<group>"; };
 		BA72219224AEF3C800EEA723 /* all.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = all.jpg; sourceTree = "<group>"; };
+		BA72219424AF59D500EEA723 /* YCCharImageGroupFilter.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = YCCharImageGroupFilter.h; sourceTree = "<group>"; };
+		BA72219524AF59D500EEA723 /* YCCharImageGroupFilter.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = YCCharImageGroupFilter.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,6 +91,8 @@
 				BA72218B24AEC63E00EEA723 /* YCScaleGrayscaleFilter.m */,
 				BA72218D24AECBEC00EEA723 /* YCCharImageFilter.h */,
 				BA72218E24AECBEC00EEA723 /* YCCharImageFilter.m */,
+				BA72219424AF59D500EEA723 /* YCCharImageGroupFilter.h */,
+				BA72219524AF59D500EEA723 /* YCCharImageGroupFilter.m */,
 				BA72217D24AEC35B00EEA723 /* Assets.xcassets */,
 				BA72219224AEF3C800EEA723 /* all.jpg */,
 				BA72217F24AEC35B00EEA723 /* LaunchScreen.storyboard */,
@@ -220,6 +225,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				BA72218F24AECBEC00EEA723 /* YCCharImageFilter.m in Sources */,
+				BA72219624AF59D500EEA723 /* YCCharImageGroupFilter.m in Sources */,
 				BA72217924AEC35900EEA723 /* ViewController.m in Sources */,
 				BA72217324AEC35900EEA723 /* AppDelegate.m in Sources */,
 				BA72218424AEC35B00EEA723 /* main.m in Sources */,
